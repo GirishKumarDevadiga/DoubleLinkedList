@@ -1,2 +1,0 @@
-# DoubleLinkedList
-Double Linked List
